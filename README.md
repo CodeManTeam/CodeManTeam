@@ -51,7 +51,7 @@ An AI-powered application designed to automate workflows and improve productivit
 
 **Technologies:** Python · TypeScript · AI APIs · Docker
 
-[View project →](https://github.com/CodeManTeam)
+[View project →](https://astra-ai.xyz)
 
 ---
 
@@ -61,7 +61,7 @@ A collection of reusable tools for building intelligent agents, integrations, an
 
 **Technologies:** Python · FastAPI · LLM · APIs
 
-[View project →](https://github.com/CodeManTeam)
+[View project →](https://api.astra-ai.xyz)
 
 ---
 
@@ -71,7 +71,7 @@ A modern web platform with a responsive interface, scalable backend, and product
 
 **Technologies:** Next.js · TypeScript · PostgreSQL · Docker
 
-[View project →](https://github.com/CodeManTeam)
+[View project →](https://about.astra-ai.xyz)
 
 ---
 

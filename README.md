@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Application
+### 🤖 Astra AI WebUI(Powered by Open WebUI)
 
 An AI-powered application designed to automate workflows and improve productivity.
 
@@ -55,7 +55,7 @@ An AI-powered application designed to automate workflows and improve productivit
 
 ---
 
-### 🧠 AI Agent Toolkit
+### 🧠 Astra ELSE API Platform 
 
 A collection of reusable tools for building intelligent agents, integrations, and automated workflows.
 
@@ -65,7 +65,7 @@ A collection of reusable tools for building intelligent agents, integrations, an
 
 ---
 
-### 🌐 Full-Stack Platform
+### 🌐 About Astra Project
 
 A modern web platform with a responsive interface, scalable backend, and production-ready architecture.
 
@@ -108,26 +108,6 @@ A modern web platform with a responsive interface, scalable backend, and product
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeManTeam&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph">
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-
-<a href="YOUR_WEBSITE_URL">
-  <img src="https://img.shields.io/badge/Website-Visit-informational?style=for-the-badge&logo=googlechrome" alt="Website">
-</a>
 
 </div>
 

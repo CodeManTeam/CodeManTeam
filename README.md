@@ -1,16 +1,142 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CodeManTeam/CodeManTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm CodeManTeam 👋
 
-Here are some ideas to get you started:
+### AI Builder · Full-Stack Developer · Open-Source Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Building practical software, intelligent tools, and open-source projects.
+</p>
+
+<p>
+  <a href="https://github.com/CodeManTeam">
+    <img src="https://img.shields.io/github/followers/CodeManTeam?label=Followers&style=for-the-badge" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=CodeManTeam&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Building AI-powered applications and developer tools
+* 🌱 Exploring AI agents, automation, and modern web technologies
+* 🧩 Interested in open source, system design, and product engineering
+* 💬 Happy to discuss software development and practical AI
+* ⚡ Focused on turning ideas into useful products
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,tailwind" alt="Frontend and programming languages">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,redis,docker,git,github,linux" alt="Backend and infrastructure">
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Application
+
+An AI-powered application designed to automate workflows and improve productivity.
+
+**Technologies:** Python · TypeScript · AI APIs · Docker
+
+[View project →](https://github.com/CodeManTeam)
+
+---
+
+### 🧠 AI Agent Toolkit
+
+A collection of reusable tools for building intelligent agents, integrations, and automated workflows.
+
+**Technologies:** Python · FastAPI · LLM · APIs
+
+[View project →](https://github.com/CodeManTeam)
+
+---
+
+### 🌐 Full-Stack Platform
+
+A modern web platform with a responsive interface, scalable backend, and production-ready architecture.
+
+**Technologies:** Next.js · TypeScript · PostgreSQL · Docker
+
+[View project →](https://github.com/CodeManTeam)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeManTeam&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeManTeam&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=CodeManTeam&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeManTeam&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeManTeam&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph">
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="YOUR_WEBSITE_URL">
+  <img src="https://img.shields.io/badge/Website-Visit-informational?style=for-the-badge&logo=googlechrome" alt="Website">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Build useful things. Share what you learn. Keep improving.
+
+⭐ Feel free to explore my repositories and follow my work.
+
+</div>
